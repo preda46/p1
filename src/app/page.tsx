@@ -1,4 +1,4 @@
-import Image from 'next/image'
+ import Image from 'next/image'
 import { Inter } from '@next/font/google'
 import styles from './page.module.css'
 
@@ -9,8 +9,8 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Get started by editing&nbsp;
-          <code className={styles.code}>src/app/page.tsx</code>
+          Hello everyone;
+          <code className={styles.code}>El_Predator.</code>
         </p>
         <div>
           <a
